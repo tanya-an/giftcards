@@ -1,0 +1,31 @@
+.headercontainer{
+  width:100%;
+  background-color: #fff;
+  height: 45px;
+  border-bottom:1px #aaa solid;
+  background-image: url("../img/mobilelogo.png");
+  background-repeat:no-repeat;
+  background-size:280px 48px;
+  display:inline-table;
+}
+.headercontainerin{
+  width:100%;
+  margin: 0 auto;
+}
+.headercontainerin a{
+  text-decoration:none;
+}
+.headercontainerin a:hover{
+  text-decoration:none;
+}
+.logomobile{
+  visibility:hidden;
+}
+.title{
+  visibility:hidden;
+  font-size:30px;
+  font-family:Paytone One;
+  margin:0px;
+  float:left;
+  padding-right:30px;
+}

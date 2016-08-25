@@ -1,0 +1,19 @@
+.footercontainer{
+  width:100%;
+  background-color:#0a84c0;
+  top-bottom:2px #CCC solid;
+  margin:0px auto;
+  color:#fff;
+  padding-top:10px;
+  padding-bottom:10px;
+  display:inline-table;
+}
+.footercontainerin{
+  min-width:800px;
+  width:95%;
+  margin: 0 auto;
+}
+.footercontainerin a{
+  color:#fff;
+  font-weight:bold;
+}

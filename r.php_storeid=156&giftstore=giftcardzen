@@ -1,0 +1,15 @@
+[{"id":1005191,"value":23.12,"public_price":"21.5","rate":"93.0","type":"physical","public_note":"","is_in_cart":false},{"id":1005192,"value":43.49,"public_price":"40.45","rate":"93.0","type":"physical","public_note":"","is_in_cart":false},{"id":1005189,"value":71.88,"public_price":"66.85","rate":"93.0","type":"physical","public_note":"","is_in_cart":false},{"id":1005190,"value":76.16,"public_price":"70.83","rate":"93.0","type":"physical","public_note":"","is_in_cart":false}]t-revalidate
+Set-Cookie: referer_id=52213; path=/; secure
+Set-Cookie: XSRF-TOKEN=PYic%2FEDObRXrYseHjtzMff3ix3hvXmpXN797ByWLkMz6kenDRelLsFUelE0siyFhGumREu5LxyuFM4%2BWvsqsow%3D%3D; path=/; secure
+X-Request-Id: 68105d7b-fd15-4ae0-96cf-3c5027a2b493
+X-Runtime: 0.058589
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Via: 1.1 vegur
+Server: cloudflare-nginx
+CF-RAY: 2d02d4a71ac4286a-SJC
+
+1e0
+[{"id":1005191,"value":23.12,"public_price":"21.5","rate":"93.0","type":"physical","public_note":"","is_in_cart":false},{"id":1005192,"value":43.49,"public_price":"40.45","rate":"93.0","type":"physical","public_note":"","is_in_cart":false},{"id":1005189,"value":71.88,"public_price":"66.85","rate":"93.0","type":"physical","public_note":"","is_in_cart":false},{"id":1005190,"value":76.16,"public_price":"70.83","rate":"93.0","type":"physical","public_note":"","is_in_cart":false}]
+0
+

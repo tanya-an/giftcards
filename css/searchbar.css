@@ -1,0 +1,25 @@
+.ui-autocomplete > li { height: 40px; }
+
+.searchform {
+  float:right;
+}
+.search {
+  padding:7px 15px;
+  width:300px;
+  background:#FFF;
+  border:1px solid #dbdbdb;
+  border-top-left-radius:3px;
+  border-bottom-left-radius:3px;
+}
+.searchbutton {
+  position:relative;
+  padding:6px 15px;
+  left:-8px;
+  border:2px solid #0a84c1;
+  background-color:#0a84c1;
+  color:#fafafa;
+  display:inline;
+  border-top-right-radius:3px;
+  border-bottom-right-radius:3px;
+  -webkit-appearance: none;
+}
